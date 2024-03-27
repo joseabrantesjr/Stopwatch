@@ -18,4 +18,4 @@ This project was created by [Jose Calazans Abrantes Junior](https://github.com/j
 
 ## Note
 
-This project was created for personal use by Jose Calazans Abrantes Junior, but can be used by anyone.
+This project was created for personal use by Jose Calazans Abrantes Junior, but can be used by anyone
